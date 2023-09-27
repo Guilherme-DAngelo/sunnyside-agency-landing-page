@@ -1,8 +1,8 @@
-# Landing Page de Sunnyside Agency
+# Landing Page de agência de publicidade
 
 ## Visão Geral
 
-Esse projeto é uma Landing Page, de um site de uma agência.
+Esse projeto é uma Landing Page, de um site de uma agência de publicidade.
 
 ### Resultado
 
@@ -35,4 +35,4 @@ Este foi um projeto mais simples, mas eu queria fazer um do zero há algum tempo
 ## Autor
 
 - Github - [Guilherme D'Angelo](https://github.com/Guilherme-DAngelo)
-- Linkedin - [Guilherme D'Angelo](https://www.linkedin.co
+- Linkedin - [Guilherme D'Angelo](https://www.linkedin.com/in/guilherme-d-655705218/)
